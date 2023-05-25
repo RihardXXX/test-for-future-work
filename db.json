@@ -1,0 +1,70 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "avatar": "https://cdn.vuetifyjs.com/images/lists/1.jpg",
+            "title": "Роман",
+            "subtitle": "продвинутый frontend developer",
+            "country": "russia",
+            "score": 15
+        },
+        {
+            "id": 2,
+            "avatar": "https://cdn.vuetifyjs.com/images/lists/2.jpg",
+            "title": "Федор",
+            "subtitle": "продвинутый backend developer",
+            "country": "russia",
+            "score": 25
+        },
+        {
+            "id": 3,
+            "avatar": "https://cdn.vuetifyjs.com/images/lists/3.jpg",
+            "title": "Алекса",
+            "subtitle": "продвинутый UX дизайнер",
+            "country": "usa",
+            "score": 12
+        },
+        {
+            "id": 4,
+            "avatar": "https://cdn.vuetifyjs.com/images/lists/4.jpg",
+            "title": "Кейт",
+            "subtitle": "Аналитик данных",
+            "country": "usa",
+            "score": 25
+        },
+        {
+            "id": 5,
+            "avatar": "https://cdn.vuetifyjs.com/images/lists/5.jpg",
+            "title": "Кристина",
+            "subtitle": "продвинутый Продакт менеджер",
+            "country": "usa",
+            "score": 11
+        }
+    ],
+    "filters": {
+        "country": [
+            {
+                "id": 6,
+                "title": "usa",
+                "value": "usa"
+            },
+            {
+                "id": 7,
+                "title": "russia",
+                "value": "russia"
+            }
+        ],
+        "score": [
+            {
+                "id": 8,
+                "title": ">20",
+                "value": ">20"
+            },
+            {
+                "id": 9,
+                "title": "<20",
+                "value": "<20"
+            }
+        ]
+    }
+}
